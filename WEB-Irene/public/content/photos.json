@@ -1,0 +1,23 @@
+[
+  { "id": 1, "src": "/assets/photos/01.jpg", "alt": "Moment 01", "caption": "On tot va començar.", "date": "2024-01" },
+  { "id": 2, "src": "/assets/photos/02.jpg", "alt": "Moment 02", "caption": "Aquell viatge que no oblidarem mai.", "date": "2024-03" },
+  { "id": 3, "src": "/assets/photos/03.jpg", "alt": "Moment 03", "caption": "Els millors riures són amb tu.", "date": "2024-05" },
+  { "id": 4, "src": "/assets/photos/04.jpg", "alt": "Moment 04", "caption": "Aturant el temps, junts.", "date": "2024-07" },
+  { "id": 5, "src": "/assets/photos/05.jpg", "alt": "Moment 05", "caption": "Cada aventura és millor al teu costat.", "date": "2024-09" },
+  { "id": 6, "src": "/assets/photos/06.jpg", "alt": "Moment 06", "caption": "Celebrant la vida, junts.", "date": "2024-12" },
+  { "id": 7, "src": "/assets/photos/07.jpg", "alt": "Moment 07", "caption": "Un somriure que ho cura tot.", "date": "2025-01" },
+  { "id": 8, "src": "/assets/photos/08.jpg", "alt": "Moment 08", "caption": "Més que paraules.", "date": "2025-02" },
+  { "id": 9, "src": "/assets/photos/09.jpg", "alt": "Moment 09", "caption": "Junts a qualsevol lloc.", "date": "2025-02" },
+  { "id": 10, "src": "/assets/photos/10.jpg", "alt": "Moment 10", "caption": "Felicidat pura.", "date": "2025-02" },
+  { "id": 11, "src": "/assets/photos/11.jpg", "alt": "Moment 11", "caption": "Instants infinits.", "date": "2025-02" },
+  { "id": 12, "src": "/assets/photos/12.jpg", "alt": "Moment 12", "caption": "Ets la meva millor tria.", "date": "2025-02" },
+  { "id": 13, "src": "/assets/photos/13.jpg", "alt": "Moment 13", "caption": "Seguim sumant.", "date": "2025-02" },
+  { "id": 14, "src": "/assets/photos/14.jpg", "alt": "Moment 14", "caption": "Ballem?", "date": "2025-02" },
+  { "id": 15, "src": "/assets/photos/15.jpg", "alt": "Moment 15", "caption": "La teva llum.", "date": "2025-02" },
+  { "id": 16, "src": "/assets/photos/16.jpg", "alt": "Moment 16", "caption": "Un brindis per nosaltres.", "date": "2025-02" },
+  { "id": 17, "src": "/assets/photos/17.jpg", "alt": "Moment 17", "caption": "Mireia i Irene.", "date": "2025-02" },
+  { "id": 18, "src": "/assets/photos/18.jpg", "alt": "Moment 18", "caption": "T'estimo cada dia més.", "date": "2025-02" },
+  { "id": 19, "src": "/assets/photos/19.jpg", "alt": "Moment 19", "caption": "Cap al futur.", "date": "2025-02" },
+  { "id": 20, "src": "/assets/photos/20.jpg", "alt": "Moment 20", "caption": "Sempre.", "date": "2025-02" },
+  { "id": 21, "src": "/assets/photos/21.jpg", "alt": "Moment 21", "caption": "Per sempre.", "date": "2025-02" }
+]
